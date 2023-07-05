@@ -1,8 +1,13 @@
 # user_profile_ui
 
-A new Flutter project.
-
 ## Getting Started
+
+
+
+<img src="https://github.com/govindgurjar/user_profile_ui/assets/83970520/62a5681d-d1ec-4472-a73a-8db197c7df9c" alt="drawing" width="330"/>
+<img src="https://github.com/govindgurjar/user_profile_ui/assets/83970520/1fef18e2-7f59-4c99-9248-3af7d941a669" alt="drawing" width="330"/>
+
+
 
 This project is a starting point for a Flutter application.
 
